@@ -1,2 +1,2 @@
 # E96 - email
-emails made by me for E96.ru
+https://priuet.github.io/E96-email/
